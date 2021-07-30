@@ -14,3 +14,5 @@ Here are the programs requested by the University of Sao Paulo
 [Ep04](https://github.com/joaovpassos/USP-Programs/blob/main/digitos.py) - This is a program that calculates the check digits of identification documents.
   
 [Ep05](https://github.com/joaovpassos/USP-Programs/blob/main/pitagoreano.py) - This is a program that takes a number and verify if it is a pitagorean one. In other words, it verifies if there is three numbers that makes a rectangle triangle and the sum of them results in the provided number.
+  
+[Ep06](https://github.com/joaovpassos/USP-Programs/blob/main/funcoes.py) - This is a program to train how to make functions in python. It contains four examples.
