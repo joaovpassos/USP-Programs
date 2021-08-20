@@ -3,7 +3,7 @@
 <p>
 
 # MAC0110
-Here are the programs requested by the University of Sao Paulo  
+Here are the programs requested by the University of Sao Paulo in programming classes.
   
 [Ep01](https://github.com/joaovpassos/USP-Programs/blob/main/files/ep01.py) - This is a program that requests a string, an integer and a real number and then return some values.  
   
@@ -30,3 +30,10 @@ Here are the programs requested by the University of Sao Paulo
 [Ep12](https://github.com/joaovpassos/USP-Programs/blob/main/files/escritora.py) - This is a program that generates quotes based on Machado de Assis books.
   
 [Ep13](https://github.com/joaovpassos/USP-Programs/blob/main/files/agentes.py) - This is a program that try to explain the segregation in society, showing how people try to leave near to other peoples like them.
+  
+
+# MAT0112
+Here are some programs to help to calculate some operations with vectors.
+  
+[Vectors](https://github.com/joaovpassos/USP-Programs/blob/main/ang_entre_vet.py) - It helps to calculate the angle between two vectors, dot product and vector product.
+
