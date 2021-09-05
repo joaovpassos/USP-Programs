@@ -1,6 +1,6 @@
 <p align="center">
 <img src="http://www.scs.usp.br/identidadevisual/wp-content/uploads/universidade-sao-paulo-USP.png" width="25%"></img>
-<p>
+</p>
 
 # MAC0110
 Here are the programs requested by the University of Sao Paulo in programming classes.
